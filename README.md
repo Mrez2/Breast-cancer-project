@@ -1,4 +1,6 @@
-# Breast Cancer Analysis Project
+# 🧪Breast Cancer Analysis Project
+<img width="895" height="448" alt="Screenshot 2025-08-08 034249" src="https://github.com/user-attachments/assets/c6fd896f-f953-4ff9-9dc1-418951079c3d" />
+
 
 ## Overview
 This project analyzes the Breast Cancer Wisconsin (Diagnostic) Dataset to explore relationships between tumor characteristics and diagnoses. The analysis includes data exploration, visualization, and insights into key features that distinguish malignant (M) from benign (B) tumors.
