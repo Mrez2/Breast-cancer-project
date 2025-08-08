@@ -41,15 +41,13 @@ The dataset contains 33 features computed from digitized images of breast mass f
 - matplotlib
 - jupyter
   
- ##breast_cancer_analysis/
-├── data/
-│   └── breast_cancer_data.csv        # Original dataset
-├── images/
-│   ├── scatter_plot.png              # Radius vs. Area visualization
-│   └── bar_plot.png                  # Diagnosis comparison
-├── breast_cancer.ipynb               # Main analysis notebook
-├── README.md                         # Project documentation
-└── requirements.txt                  # Python dependencies
+breast_cancer_analysis/
+├── breast_cancer.ipynb          # Main analysis notebook
+├── breast_cancer_data.csv        # Dataset
+├── scatter_plot.png              # Radius vs. Area visualization
+├── bar_plot.png                  # Diagnosis comparison
+├── README.md                     # Project documentation
+└── requirements.txt              # Python dependencies
 
 ## Installation
 1. Clone the repository:
