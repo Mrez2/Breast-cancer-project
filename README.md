@@ -1,0 +1,2 @@
+# Breast cancer project
+This project analyzes breast cancer tumor data to explore the differences between benign and malignant tumors using visualizations and statistical comparisons. Key features such as tumor radius, area, and diagnosis labels are used to identify patterns that can support early detection. Charts and insights are provided to assist in understanding how tumor characteristics relate to cancer diagnosis. Future steps include developing predictive models to aid clinical decision-making
