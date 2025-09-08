@@ -5,8 +5,9 @@ import joblib
 from sklearn.datasets import load_breast_cancer   # ✅ Added this line
 
 # Load model and scaler
-model = joblib.load(r"C:\games\yom etnen\best_model.pkl")
-scaler = joblib.load(r"C:\games\yom etnen\scaler.pkl")
+model = joblib.load(r"streamlit_and_deployment/best_model.pkl")
+scaler = joblib.load(r"streamlit_and_deployment/scaler.pkl")
+
 
 # ✅ Load dataset to get feature names
 data = load_breast_cancer()
